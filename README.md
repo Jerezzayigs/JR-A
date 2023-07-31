@@ -14,7 +14,7 @@
 
 
 
-# _Mⱥsͥteͣrͫmiήd_
+# _✯𝔍𝔢𝔯𝔢𝔷𝔞𝔶𝔦𝔤𝔰★_
 
 ***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
